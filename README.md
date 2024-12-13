@@ -28,6 +28,10 @@ masyus (ましゅーず)と申します。2024年現在39歳です。家では2�
 ## 🚧 🌲 今後の展望
 工事中
 
+## 転職先に求める条件
+- 副業可
+- リモート勤務可（子供の保育園送り迎えや急な呼び出しに対応しやすい体制にしたいため）
+
 ## 🗒️ 記事
 - [ビジネス視点で企画を考え開発するエンジニア【YOURMYSTAR ENGINEER STORY 05】](https://www.wantedly.com/companies/yourmystar/post_articles/342125)
 - [エンジニアチームのレビュー風景を大公開！【YOURMYSTAR ENGINEER STORY 07】](https://www.wantedly.com/companies/yourmystar/post_articles/373083)
