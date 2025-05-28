@@ -53,9 +53,21 @@ Webエンジニアで、立ち回りとしては下記3つのどれかで考え�
 - リモート勤務可（子供の保育園送り迎えや急な呼び出しに対応しやすい体制にしたいため）
 
 ## 🗒️ 記事
-- [ビジネス視点で企画を考え開発するエンジニア【YOURMYSTAR ENGINEER STORY 05】](https://www.wantedly.com/companies/yourmystar/post_articles/342125)
-- [エンジニアチームのレビュー風景を大公開！【YOURMYSTAR ENGINEER STORY 07】](https://www.wantedly.com/companies/yourmystar/post_articles/373083)
-- [「チームで新しい価値を創造したい」フリーランスからスタートアップに飛び込んだWebエンジニア](https://www.wantedly.com/companies/yourmystar/post_articles/166908)
+- [masyus.work](https://masyus.work/)
+  - 自身のブログ兼メディア
+- 寄稿
+  - ユアマイスター株式会社
+    - [UUID v7 のデータ構造を詳細に理解する](https://yourmystar.tech/articles/2025/understand-uuidv7)
+    - [AlloyDB 連携クエリで、BigQueryからプロジェクトを跨いだ先のAlloyDBに繋いでクエリを発行できるようにする](https://yourmystar.tech/articles/2025/alloydb-bigquery-cross-project-query)
+    - [Google Cloud 上で動く Web サービスを Cloud Armor + Cloud Storage でメンテナンス画面へ切り替える方法](https://yourmystar.tech/articles/2024/how-to-change-maintenance-screen-in-google-cloud)
+    - [前編 AWS から Google Cloud への段階的な移行方法](https://yourmystar.tech/articles/2024/the-staged-migration-from-aws-to-google-cloud-1)
+    - [後編 AWS から Google Cloud への段階的な移行方法](https://yourmystar.tech/articles/2025/the-staged-migration-from-aws-to-google-cloud-2)
+    - [【非エンジニア向け】業務フロー可視化にフローチャートを駆使すると、開発着手までの速度を上げられる話](https://yourmystar.tech/articles/2022/it-is-able-to-speed-up-development-by-using-flow-chart)
+    - [【Trouble shooting hack】Web サービスにおけるシステム障害の原因特定アプローチ](https://yourmystar.tech/articles/2022/trouble-shooting-hack-how-to-specify-a-reason)
+- 自身が紹介された記事
+  - [ビジネス視点で企画を考え開発するエンジニア【YOURMYSTAR ENGINEER STORY 05】](https://www.wantedly.com/companies/yourmystar/post_articles/342125)
+  - [エンジニアチームのレビュー風景を大公開！【YOURMYSTAR ENGINEER STORY 07】](https://www.wantedly.com/companies/yourmystar/post_articles/373083)
+  - [「チームで新しい価値を創造したい」フリーランスからスタートアップに飛び込んだWebエンジニア](https://www.wantedly.com/companies/yourmystar/post_articles/166908)
 
 ## 🎤 登壇
 - Google Cloud Modern App Summit Tokyo '24
